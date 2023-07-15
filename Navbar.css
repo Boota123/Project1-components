@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    height: 75px;
+    padding: 8px 40px;
+    /* background-color: #00828c; */
+    /* color: white; */
+}
+.nav-menu li{
+    list-style: none;
+    font-weight: 600;
+    font-size: 17px;
+    /* padding-top: 0 2px; */
+
+}
+.btn{
+/* font-size: 20px; */
+    display: flex;
+    /* justify-content: space-between; */
+}
+.btn button{
+    border: 1px solid #e6e0e0;
+   font-size: 14px;
+   padding: 7px 13px;
+   margin-left: 57rem;
+   font-weight: bold;
+   border-radius: 27px;
+   background-color: white;
+}
+.signup{
+    
+    font-size: 14px;
+    padding: 7px 13px;
+    border-radius: 50px;
+    margin-right: 10px;
+    background-color: black;
+    color: white;
+    font-weight: 500;
+}
+.hero-section{
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 180px
+}
+
+.hero-section button{
+    font-size: 14px;
+    padding: 7px 25px;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    margin: 0 3px;
+}
+
+.hero-section h1{
+    font-size: 2.5rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 15px;
+}
+.hero-section p{
+    font-size: 17px;
+    padding-bottom: 30px;
+    
+}
+
+input{
+/* background-color: transparent; */
+    /* border: none;
+    height: 100%;
+    font-size: 1.25rem; */
+
+  
+    color: white;
+    font-size: 13px;
+    padding: 7px 25px;
+    border-radius: 40px;
+
+}
+
+    
